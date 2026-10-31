@@ -238,4 +238,5 @@ Run of `python evaluate.py` with `openai/gpt-oss-120b` on Groq (one run, 18 ques
 - The audit log is tamper-evident, not tamper-proof: someone with file access could rewrite the whole file. In production it would go to write-once storage.
 - Secret redaction and the memory guard are pattern-based and will miss some unusual phrasings. Redaction can also mask harmless text (for example a postal PIN code).
 - Data is stored in plain JSON files and the student's own record is sent to the hosted model when they ask about it. A production system would use a database with encryption and a data-processing agreement with the model provider.
-- Tickets are created without a separate confirmation step beyond what the model decides.
+#   s t u d e n t - s u p p o r t - a g e n t  
+ 
