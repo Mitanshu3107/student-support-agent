@@ -1,0 +1,12 @@
+{
+  "source": "Assignment 1 final evaluation run (python evaluate.py, 18 questions)",
+  "model": "openai/gpt-oss-120b (Groq)",
+  "tests": 18,
+  "passed": 18,
+  "tool_choice_correct": 18,
+  "avg_latency_ms": 2094.5,
+  "avg_input_tokens": 1818,
+  "avg_output_tokens": 155,
+  "avg_policy_chars_sent": 492,
+  "handbook_chars": 3684
+}

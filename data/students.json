@@ -1,0 +1,142 @@
+{
+  "S1001": {
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@sim.example.edu",
+    "programme": "PGDM (Big Data Analytics)",
+    "batch": "2025-27",
+    "current_term": 3,
+    "cgpa": 3.42,
+    "attendance_pct": 88,
+    "fees": {
+      "total_programme_fee": 450000,
+      "total_paid": 300000,
+      "pending_amount": 150000,
+      "status": "PARTIALLY_PAID",
+      "instalments": [
+        {
+          "no": 1,
+          "amount": 150000,
+          "due_date": "2026-07-15",
+          "status": "PAID"
+        },
+        {
+          "no": 2,
+          "amount": 150000,
+          "due_date": "2026-11-05",
+          "status": "PENDING"
+        },
+        {
+          "no": 3,
+          "amount": 150000,
+          "due_date": "2027-02-15",
+          "status": "NOT_DUE"
+        }
+      ]
+    },
+    "scholarship": {
+      "name": "Need-Based Scholarship",
+      "status": "UNDER_REVIEW",
+      "percent": null,
+      "note": "Application received 21 Aug 2026; review takes up to 15 working days."
+    },
+    "phone": "9876500001"
+  },
+  "S1002": {
+    "name": "Diya Shah",
+    "email": "diya.shah@sim.example.edu",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "batch": "2025-27",
+    "current_term": 3,
+    "cgpa": 3.71,
+    "attendance_pct": 94,
+    "fees": {
+      "total_programme_fee": 450000,
+      "total_paid": 450000,
+      "pending_amount": 0,
+      "status": "FULLY_PAID",
+      "instalments": [
+        {
+          "no": 1,
+          "amount": 150000,
+          "due_date": "2026-07-15",
+          "status": "PAID"
+        },
+        {
+          "no": 2,
+          "amount": 150000,
+          "due_date": "2026-11-05",
+          "status": "PAID"
+        },
+        {
+          "no": 3,
+          "amount": 150000,
+          "due_date": "2027-02-15",
+          "status": "PAID"
+        }
+      ]
+    },
+    "scholarship": {
+      "name": "Merit Scholarship",
+      "status": "APPROVED",
+      "percent": 20,
+      "note": "Applied to the fee ledger. Renewal needs CGPA >= 3.4 and attendance >= 80%."
+    },
+    "phone": "9876500002"
+  },
+  "S1003": {
+    "name": "Rohan Iyer",
+    "email": "rohan.iyer@sim.example.edu",
+    "programme": "PGDM (Big Data Analytics)",
+    "batch": "2025-27",
+    "current_term": 3,
+    "cgpa": 3.1,
+    "attendance_pct": 79,
+    "fees": {
+      "total_programme_fee": 450000,
+      "total_paid": 150000,
+      "pending_amount": 300000,
+      "status": "OVERDUE",
+      "instalments": [
+        {
+          "no": 1,
+          "amount": 150000,
+          "due_date": "2026-07-15",
+          "status": "PAID"
+        },
+        {
+          "no": 2,
+          "amount": 150000,
+          "due_date": "2026-11-05",
+          "status": "NOT_PAID_YET"
+        },
+        {
+          "no": 3,
+          "amount": 150000,
+          "due_date": "2027-02-15",
+          "status": "NOT_DUE"
+        }
+      ],
+      "overdue_note": "Part of instalment 1 late fee (Rs 2,500) is still unpaid."
+    },
+    "scholarship": null,
+    "phone": "9876500003"
+  },
+  "S1004": {
+    "name": "Meera Kulkarni",
+    "email": "meera.kulkarni@sim.example.edu",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "batch": "2025-27",
+    "current_term": 3,
+    "cgpa": 3.55,
+    "attendance_pct": 91,
+    "fee_system_down": true,
+    "fees": {},
+    "scholarship": {
+      "name": "Merit Scholarship",
+      "status": "APPROVED",
+      "percent": 30,
+      "note": "Applied to the fee ledger."
+    },
+    "phone": "9876500004"
+  }
+}

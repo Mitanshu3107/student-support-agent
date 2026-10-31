@@ -1,0 +1,7 @@
+.env
+__pycache__/
+# runtime state created while using the app (reset with: python reset_demo.py)
+data/memory.json
+data/tickets.json
+data/approvals.json
+data/audit.jsonl

@@ -1,0 +1,42 @@
+{
+  "S1001": {
+    "role": "student",
+    "student_id": "S1001",
+    "display_name": "Aarav Mehta",
+    "salt": "18f9e5e034f6872f58e882eb7a5a87fe",
+    "iterations": 200000,
+    "hash": "91a0d5d95f1f3b4b2f42dc644590220d2645834000ce0b3a35829cc6f2c1f6a1"
+  },
+  "S1002": {
+    "role": "student",
+    "student_id": "S1002",
+    "display_name": "Diya Shah",
+    "salt": "fc6acfe2813fa0b63018826344b52680",
+    "iterations": 200000,
+    "hash": "104fb3109f6c190a89393d14d5b22dd9c8bf8f5cd864561171f0c0ef3dca20a2"
+  },
+  "S1003": {
+    "role": "student",
+    "student_id": "S1003",
+    "display_name": "Rohan Iyer",
+    "salt": "c53796cb587b99a2ff3f7995fd11913f",
+    "iterations": 200000,
+    "hash": "764a618feb7f06d191dc379cae2227e1b9283538d922127c079fea902ea560d1"
+  },
+  "S1004": {
+    "role": "student",
+    "student_id": "S1004",
+    "display_name": "Meera Kulkarni",
+    "salt": "fe33b427a8ec9dd1385a19da2abde8b4",
+    "iterations": 200000,
+    "hash": "0ec48e6b238e967198404a25d3ed5c7505df1905c4bc5e15ea6de29d95c8f9f8"
+  },
+  "STAFF01": {
+    "role": "staff",
+    "student_id": null,
+    "display_name": "Registrar Office",
+    "salt": "47b3ccf243e0d4430de7641ce5ead129",
+    "iterations": 200000,
+    "hash": "129729e40446867de2695593d2c41caaa98090d514acc6f880fdf8c434d4884b"
+  }
+}
